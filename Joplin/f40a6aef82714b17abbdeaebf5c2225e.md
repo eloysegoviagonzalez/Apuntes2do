@@ -1,0 +1,26 @@
+6e2d605bc5f877844304ae65fe385ce2.png
+
+id: f40a6aef82714b17abbdeaebf5c2225e
+mime: image/png
+filename: 
+created_time: 2026-09-29T07:48:35.312Z
+updated_time: 2026-09-29T07:48:35.603Z
+user_created_time: 2026-09-29T07:48:35.312Z
+user_updated_time: 2026-09-29T07:48:35.603Z
+file_extension: png
+encryption_cipher_text: 
+encryption_applied: 0
+encryption_blob_encrypted: 0
+size: 14328
+is_shared: 0
+share_id: 
+master_key_id: 
+user_data: 
+blob_updated_time: 1790668115312
+ocr_text: [Nombre | Descripción]\nclone Crea un contexto de ejecución.\nfork Crea un proceso.\nexec Ejecuta un programa.\nwait Espera la terminación de un proceso.\nexit Termina un proceso.
+ocr_details: [{"words":[{"t":"[Nombre","bb":[13,90,0,44],"bl":[13,90,33,33]},{"t":"|","bb":[101,105,0,44],"bl":[101,105,33,33]},{"t":"Descripción]","bb":[101,421,11,33],"bl":[101,421,33,33]}]},{"words":[{"t":"clone","bb":[27,70,35,49],"bl":[27,70,49,49]},{"t":"Crea","bb":[110,144,36,49],"bl":[110,144,49,49]},{"t":"un","bb":[152,170,38,49],"bl":[152,170,49,49]},{"t":"contexto","bb":[177,246,36,49],"bl":[177,246,49,49]},{"t":"de","bb":[253,272,35,49],"bl":[253,272,49,49]},{"t":"ejecución.","bb":[278,359,38,53],"bl":[278,359,49,49]}]},{"words":[{"t":"fork","bb":[26,58,57,71],"bl":[26,58,71,71]},{"t":"Crea","bb":[110,144,58,71],"bl":[110,144,71,71]},{"t":"un","bb":[152,170,60,71],"bl":[152,170,71,71]},{"t":"proceso.","bb":[178,244,60,75],"bl":[178,244,71,71]}]},{"words":[{"t":"exec","bb":[27,62,82,93],"bl":[27,62,93,93]},{"t":"Ejecuta","bb":[111,168,78,97],"bl":[111,168,93,93]},{"t":"un","bb":[175,194,82,93],"bl":[175,194,93,93]},{"t":"programa.","bb":[201,282,81,97],"bl":[201,282,93,93]}]},{"words":[{"t":"wait","bb":[26,60,96,123],"bl":[26,60,115,115]},{"t":"Espera","bb":[111,163,102,119],"bl":[111,163,115,115]},{"t":"la","bb":[171,183,101,115],"bl":[171,183,115,115]},{"t":"terminación","bb":[189,286,100,115],"bl":[189,286,115,115]},{"t":"de","bb":[293,312,101,115],"bl":[293,312,115,115]},{"t":"un","bb":[319,337,104,115],"bl":[319,337,115,115]},{"t":"proceso.","bb":[345,412,104,119],"bl":[345,412,115,115]}]},{"words":[{"t":"exit","bb":[28,57,122,137],"bl":[28,57,137,137]},{"t":"Termina","bb":[110,174,122,137],"bl":[110,174,137,137]},{"t":"un","bb":[181,200,126,137],"bl":[181,200,137,137]},{"t":"proceso.","bb":[207,274,126,141],"bl":[207,274,137,137]}]}]
+ocr_status: 2
+ocr_error: 
+ocr_driver_id: 1
+is_locked: 0
+type_: 4
