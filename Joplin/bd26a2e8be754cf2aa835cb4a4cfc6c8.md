@@ -32,12 +32,11 @@ y a fin de año como:
 | Infraestructura | Beneficios                     |
 |                 | Otros objetos propios y agenos |
 
-de aqui podemos sacar el e
 
 id: bd26a2e8be754cf2aa835cb4a4cfc6c8
 parent_id: ef7c8a4f3b1c40f5970d66fe193eb524
 created_time: 2026-10-08T09:42:15.610Z
-updated_time: 2026-10-08T10:05:39.093Z
+updated_time: 2026-10-13T09:56:30.204Z
 is_conflict: 0
 latitude: 36.52671580
 longitude: -6.28911550
@@ -52,7 +51,7 @@ source_application: net.cozic.joplin-desktop
 application_data: 
 order: 0
 user_created_time: 2026-10-08T09:42:15.610Z
-user_updated_time: 2026-10-08T10:05:39.093Z
+user_updated_time: 2026-10-13T09:56:30.204Z
 encryption_cipher_text: 
 encryption_applied: 0
 markup_language: 1
